@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-size: 50px;
+    color: whitesmoke;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container{
+
+    position: relative;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+#clock{
+    margin-right: 18px;
+    padding: 5px;
+    text-align: left;
+
+}
+
+.me{
+    
+    padding: 5px;
+    text-align: right;;
+    
+}
+
+.content{
+    font-size: 24px;
+}
+span{
+    font-size: 40px;
+}
+.miniContent{
+    font-size: 15px;
+}
